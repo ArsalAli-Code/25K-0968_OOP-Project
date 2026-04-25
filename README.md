@@ -1,4 +1,4 @@
-#  Frostbound: The Melee Chronicles
+#  Frostbound
 
 ### *Object-Oriented Programming (CS-2001) — Semester Project*
 
