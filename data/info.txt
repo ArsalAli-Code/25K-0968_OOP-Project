@@ -1,0 +1,38 @@
+==========================================================
+             FROSTBOUND: THE MELEE CHRONICLES
+==========================================================
+
+Welcome, Hero. You have entered the frozen realm where every 
+swing of your blade costs energy and every mistake is fatal.
+
+[ CHARACTER CLASSES ]
+1. WARRIOR : Balanced stats. Good for beginners.
+2. ROGUE   : High damage, but fragile. Requires stamina management.
+3. TANK    : High health and defense. Can endure long battles.
+
+[ COMBAT MECHANICS ]
+* STAMINA (STM): Every attack consumes energy. 
+  - Basic Attack   : 10 STM
+  - Special Move   : 30 STM (2x Damage)
+  - Ultimate Combo : 50 STM (3.5x Damage)
+  
+* EXHAUSTION: If your STM is too low, your attack will FAIL.
+  Rest is vital! You recover 20 STM at the end of every turn.
+
+* FREE ACTIONS: Using a Potion or changing gear from your 
+  Inventory does NOT cost a turn. Use this to your advantage!
+
+[ EQUIPMENT & ITEMS ]
+* WEAPONS : Increase your base attack damage.
+* ARMOR   : (Helmet, Chest, Legs, Boots) increase your Max HP.
+* SHIELDS : Increase your Defense, reducing damage taken.
+* POTIONS : Instantly restore HP or Stamina.
+
+[ SAVING PROGRESS ]
+The game tracks your Level, Gold, Current HP, and Inventory.
+Progress is saved automatically when you return to the Hub,
+or you can perform a Manual Save from the Camp Menu.
+
+==========================================================
+        "MAY YOUR BLADE NEVER CHATTER IN THE COLD"
+==========================================================
